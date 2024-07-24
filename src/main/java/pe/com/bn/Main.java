@@ -15,7 +15,7 @@ public class Main {
 
 
         String excelFilePath = "D:\\repo.xlsx";
-        String jdbcUrl = "jdbc:oracle:thin:@//10.7.12.177:1521/orades";
+        String jdbcUrl = "-----------------";
         String jdbcUser = "bn_msds";
         String jdbcPassword = "bn_msds";
 
